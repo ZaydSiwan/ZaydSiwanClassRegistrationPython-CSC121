@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------
-# Author: Nkaujhnub Vue, John Kappler
+# Author: Nkaujhnub Vue, John Kappler, Zayd Siwan
 # Date: October 23rd, 2023 - November 21st, 2023
 #
 # This program creates a class registration system.  It allows
